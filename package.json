@@ -16,6 +16,10 @@
         "url": "https://idontknow/todo.git"
     },
     "description": "[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)",
+
+
+    "keywords": ["freecodecamp", "microservice", "guide"],
+
     "version": "1.0.0",
     "devDependencies": {},
     "license": "ISC"
